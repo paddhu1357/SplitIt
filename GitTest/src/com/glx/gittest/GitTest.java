@@ -7,4 +7,8 @@ public class GitTest {
 		System.out.println("this is somathing new");
 		System.out.println("this line is added by eswar9052 by eswar");
 	}
+	public void f2()
+	{
+		System.out.println("eswar");
+	}
 }
