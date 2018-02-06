@@ -19,8 +19,4 @@ public class GitTest {
 	{
 		System.out.println("bhushan : by bhushan");
 	}
-	public void f2()
-	{
-		System.out.println("eswar");
-	}
 }
