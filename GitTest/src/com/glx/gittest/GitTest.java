@@ -19,4 +19,8 @@ public class GitTest {
 	{
 		System.out.println("bhushan : by bhushan");
 	}
+	public void f4()
+	{
+		System.out.println("this is teja");
+	}
 }
